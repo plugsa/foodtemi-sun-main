@@ -10,7 +10,7 @@
     --color: rgb(192, 29, 70);
 }
 body  {
-    background-image: url("api/image/image6.jpg");
+    background-image: url("image/image6.jpg");
   }
 .message{
     margin: 0 auto;
